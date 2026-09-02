@@ -1,4 +1,4 @@
 # first-repo
 My First Git Repository.
 <br>
-Author-Suman s anand
+Demo for git and github classes
